@@ -14,6 +14,8 @@ I'm learning:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" heigth="50"/>
 </div>
+
+my github stats:
 <div>
 <a href="https://github.com/a55u">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a55u&layout=compact&langs_count=7&theme=dracula"/>
