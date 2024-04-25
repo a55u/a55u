@@ -34,7 +34,7 @@ Contact me:
 
 My projects
 
- [SpamX]([https://github.com/A55u](https://github.com/a55u/SpamX.git))
+ [SpamX](https://githubom/a55u/Spam.cX.git]
   <details>
     <summary>Preview</summary>
         none
