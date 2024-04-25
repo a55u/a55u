@@ -11,8 +11,9 @@ Some of my skills include:
 </div>
 
 I'm learning:
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" heigth="50"/>
-
+</div>
 
 
 
