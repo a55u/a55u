@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o João 👋</h1>
+<h1 align="center">Oi! Eu sou o João 👋</h1>
 
 <p align="center">
   PT | Estudante de tecnologia com interesse em desenvolvimento de software e fundamentos de estatística. Possuo experiência com Python, C, C++, SQL e R, aplicando essas linguagens em projetos diversos e na construção de soluções eficientes. Gosto de explorar a interseção entre lógica computacional e pensamento analítico, sempre buscando escrever código limpo e funcional. Em constante aprendizado e aprimoramento técnico.  
